@@ -1,7 +1,5 @@
 ## Hello!
 
-My name is David and I am a *full-stack web developer*.
-
 I’m currently 
 - 🌱finishing my Bachelor of Science degree in Computer Science at CSU Northridge🌱 and  
 - 🔭working for Archer Travel Service🔭
