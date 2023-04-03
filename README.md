@@ -2,7 +2,7 @@
 
 I’m currently: 
 - 🌱 finishing my Bachelor of Science degree in Computer Science at CSU Northridge
-- Working on a Capybara Spa sim in Unity
+- Working on a capybara spa sim in Unity
 - Migrating my portfolio website to Vite
 - Rapidly learning Python for multimedia production systems
 - Building a rudimentary piano synth with Arduino
