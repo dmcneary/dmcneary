@@ -1,6 +1,6 @@
 ## Hello! I'm David McNeary
 
-### ![LinkedIn](https://www.linkedin.com/in/davidmcneary) | ![Portfolio](https://mcneary.tech)
+### [LinkedIn](https://www.linkedin.com/in/davidmcneary) | [Portfolio](https://mcneary.tech)
 
 I’m currently: 
 - 🌱 finishing my Bachelor of Science degree in Computer Science at CSU Northridge
