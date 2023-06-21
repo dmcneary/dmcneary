@@ -2,11 +2,9 @@
 
 ### [LinkedIn](https://www.linkedin.com/in/davidmcneary) | [Portfolio](https://mcneary.tech)
 
-I’m currently: 
-- 🌱 finishing my Bachelor of Science degree in Computer Science at CSU Northridge
-- Working on a capybara spa sim in Unity
+I’m currently:
+- Building a full-stack app with KeystoneJS and React
 - Migrating my portfolio website to Vite
-- Rapidly learning Python for multimedia production systems
 - Building a rudimentary piano synth with Arduino
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmcneary&layout=compact&text_color=FFFFFF&bg_color=0F2027,203A43,2C5364&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
